@@ -12,6 +12,7 @@ Hemos usado esta lista de hardware:
   - Sensor de Ultrasonidos (HC-SR04)
   - Botón
   - 2 LEDs normales (LED1, LED2)
+    
 y se conectan segun el siguiente diagrama:
 
 ![Fritzing](Media/Untitled%20Sketch%202_bb.png)
