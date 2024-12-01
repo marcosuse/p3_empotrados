@@ -1,4 +1,4 @@
-# Vending Machine Controller
+# Practica Coffee machine
 ## Descripción projecto
 En este proyecto, se ha desarrollado un controlador para una máquina expendedora de café utilizando un Arduino junto con varios sensores y actuadores. La funcionalidad del proyecto está estructurada en diferentes estados dentro de un sketch. 
 ### FSM
@@ -34,4 +34,4 @@ En el enunciado de la practica no indica sobre el tiempo de servicio pero a mi m
   - la primera forma es que el sensor de ultrasonidos tambien tiene que detectar menos de un metro durante el los 5 segundos que se muestra la temperatura y humedad.
   - la segunda y ultima forma es que si cuando estas pidiendo el cafe tardas mas de 20 segundos en pedirlo volvera a el estado de esperando a la persona por que puede que hayas cambiado de opinion y te hayas ido.
 ## Video de el programa
-[Multiple targets](https://urjc-my.sharepoint.com/:v:/g/personal/m_useros_2022_alumnos_urjc_es/EcKelRwQM0dKoAPLE8B15iEBTOkH20W0zGwYYBUda_o_lg?e=soFslA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[Coffee Machine](https://urjc-my.sharepoint.com/:v:/g/personal/m_useros_2022_alumnos_urjc_es/EcKelRwQM0dKoAPLE8B15iEBTOkH20W0zGwYYBUda_o_lg?e=soFslA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
