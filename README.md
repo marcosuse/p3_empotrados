@@ -14,7 +14,7 @@ Hemos usado esta lista de hardware:
   - 2 LEDs normales (LED1, LED2)
 y se conectan segun el siguiente diagrama:
 
-[Fritzing](Media/Untitled%20Sketch%202_bb.png)
+![Fritzing](Media/Untitled%20Sketch%202_bb.png)
 
 ## Recursos usados 
 En esta practica he usado diferentes recursos como threads, interrupciones y whatchdog.
